@@ -5,6 +5,8 @@ class  Parameter_create_sku():
 #放入json格式的参数由case进行调用
     #创建商品信息
     # --参数全
+
+
     create_sku = [
     {
         "key": "CP_1508986003534",

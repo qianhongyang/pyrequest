@@ -5,40 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6442777e-21cc-4828-90ef-2f0699b3ece7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/base_url.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/config.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/parameter_create_sku.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/parameter_move_in.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-26 14_07_06result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-26 14_08_17result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/New_Report.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/Read_csv_for_url.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/Send_Mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/myunit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/readConfig.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interface/test_create_sku.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interface/test_move_in.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/run_tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/read_csv.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/request.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db_config.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db_fixture/mysql_db.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db_fixture/test_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interface/add_event_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interface/add_guest_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interface/get_event_list_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interface/get_guest_list_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interface/user_sign_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/report/2017-10-16 11_49_11_result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run_tests.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/HostConfig.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/MailConfig.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/read_HostConfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/read_MailConfig.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/report/2017-10-26 14_07_06result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/report/2017-10-26 14_08_17result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/function/readConfig.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTMLTestRunner.py" afterPath="$PROJECT_DIR$/function/HTMLTestRunner.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/db_fixture/__init__.py" afterPath="$PROJECT_DIR$/config/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/report/2017-10-13 17_23_10_result.html" afterPath="$PROJECT_DIR$/config/parameter.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/parameter_create_sku.py" afterPath="$PROJECT_DIR$/config/parameter_create_sku.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/Send_Mail.py" afterPath="$PROJECT_DIR$/function/Send_Mail.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/run_tests.py" afterPath="$PROJECT_DIR$/models/run_tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/read_csv.py" afterPath="$PROJECT_DIR$/test/read_csv.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,12 +28,13 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_shipping_test.coverage" NAME="Unittests in shipping_test Coverage Results" MODIFIED="1508819308692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$read_MailConfig.coverage" NAME="read_MailConfig Coverage Results" MODIFIED="1509015228944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/pyrequest_master$run_tests__1_.coverage" NAME="run_tests (1) Coverage Results" MODIFIED="1508816034172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$read_csv.coverage" NAME="read_csv Coverage Results" MODIFIED="1508923305841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$read_csv.coverage" NAME="read_csv Coverage Results" MODIFIED="1509017170000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_for_add_event_test_AddEventTest_test_add_event_all_null.coverage" NAME="Unittests for add_event_test.AddEventTest.test_add_event_all_null Coverage Results" MODIFIED="1507800826920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_add_event_test_py.coverage" NAME="Unittests in add_event_test.py Coverage Results" MODIFIED="1507801109095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Read_csv.coverage" NAME="Read_csv Coverage Results" MODIFIED="1508930391513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$run_tests__2_.coverage" NAME="run_tests (2) Coverage Results" MODIFIED="1509003625534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$run_tests__2_.coverage" NAME="run_tests (2) Coverage Results" MODIFIED="1509021077651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
     <SUITE FILE_PATH="coverage/pyrequest_master$mysql_db.coverage" NAME="mysql_db Coverage Results" MODIFIED="1507798673802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_fixture" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_shipping_test_py.coverage" NAME="Unittests in shipping_test.py Coverage Results" MODIFIED="1508987174243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Read_csv_for_url.coverage" NAME="Read_csv_for_url Coverage Results" MODIFIED="1508990203833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
@@ -62,6 +42,7 @@
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_add_guest_test_py.coverage" NAME="Unittests in add_guest_test.py Coverage Results" MODIFIED="1507799668551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_test_move_in_py.coverage" NAME="Unittests in test_move_in.py Coverage Results" MODIFIED="1508990330760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$run_tests.coverage" NAME="run_tests Coverage Results" MODIFIED="1508816095219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1509009039881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/pyrequest_master$request.coverage" NAME="request Coverage Results" MODIFIED="1508813640722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_for_get_event_list_test_GetEventListTest_test_get_event_list_eid_success.coverage" NAME="Unittests for get_event_list_test.GetEventListTest.test_get_event_list_eid_success Coverage Results" MODIFIED="1507858337576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
   </component>
@@ -84,11 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models/run_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="1593">
+              <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
               <folding>
                 <element signature="e#14#32#0" expanded="true" />
               </folding>
@@ -96,25 +77,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_move_in.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface/test_move_in.py">
+      <file leaf-file-name="MailConfig.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="27">
+              <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_MailConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/read_MailConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
-                <element signature="e#15#24#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_create_sku.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
+      <file leaf-file-name="Send_Mail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/Send_Mail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="422">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <element signature="e#15#24#0" expanded="true" />
+                <element signature="e#15#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,8 +114,40 @@
       <file leaf-file-name="parameter_create_sku.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/parameter_create_sku.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="251" column="5" lean-forward="true" selection-start-line="251" selection-start-column="5" selection-end-line="251" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameter_move_in.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/parameter_move_in.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_HostConfig.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/read_HostConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Read_csv_for_url.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -174,22 +197,29 @@
         <option value="$PROJECT_DIR$/test/request.py" />
         <option value="$PROJECT_DIR$/models/information.py" />
         <option value="$PROJECT_DIR$/models/Information.py" />
-        <option value="$PROJECT_DIR$/test/read_csv.py" />
         <option value="$PROJECT_DIR$/function/Read_csv.py" />
-        <option value="$PROJECT_DIR$/config/config.ini" />
-        <option value="$PROJECT_DIR$/function/readConfig.py" />
         <option value="$PROJECT_DIR$/config/information.py" />
         <option value="$PROJECT_DIR$/function/myunit.py" />
-        <option value="$PROJECT_DIR$/function/Send_Mail.py" />
         <option value="$PROJECT_DIR$/config/parameter.py" />
         <option value="$PROJECT_DIR$/interface/shipping_test.py" />
         <option value="$PROJECT_DIR$/function/Read_csv_for_url.py" />
         <option value="$PROJECT_DIR$/config/parameter_move_in.py" />
         <option value="$PROJECT_DIR$/function/New_Report.py" />
         <option value="$PROJECT_DIR$/interface/test_move_in.py" />
-        <option value="$PROJECT_DIR$/config/parameter_create_sku.py" />
-        <option value="$PROJECT_DIR$/models/run_tests.py" />
         <option value="$PROJECT_DIR$/interface/test_create_sku.py" />
+        <option value="$PROJECT_DIR$/config/parameter_create_sku.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/config/Host_Config.ini" />
+        <option value="$PROJECT_DIR$/function/readConfig.py" />
+        <option value="$PROJECT_DIR$/function/read_HostConfig.ini.py" />
+        <option value="$PROJECT_DIR$/config/HostConfig.ini" />
+        <option value="$PROJECT_DIR$/function/read_HostConfig.py" />
+        <option value="$PROJECT_DIR$/function/demo.py" />
+        <option value="$PROJECT_DIR$/test/read_csv.py" />
+        <option value="$PROJECT_DIR$/config/MailConfig.ini" />
+        <option value="$PROJECT_DIR$/function/Send_Mail.py" />
+        <option value="$PROJECT_DIR$/function/read_MailConfig.py" />
+        <option value="$PROJECT_DIR$/models/run_tests.py" />
       </list>
     </option>
   </component>
@@ -236,12 +266,6 @@
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
@@ -299,54 +323,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.run_tests (2)">
-    <configuration name="Read_csv_for_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/Read_csv_for_url.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Unittests in shipping_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/shipping_test.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="Unittests in test_create_sku.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/test_create_sku.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <configuration name="Unittests in test_move_in.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,6 +337,60 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/test_move_in.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\pyrequest-master\function\read_MailConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="read_MailConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/read_MailConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="read_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/read_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="run_tests (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -382,18 +412,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.run_tests (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in shipping_test.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_create_sku.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Read_csv_for_url" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.read_csv" />
+      <item index="3" class="java.lang.String" itemvalue="Python.readConfig" />
+      <item index="4" class="java.lang.String" itemvalue="Python.read_MailConfig" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.run_tests (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Read_csv_for_url" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_create_sku.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in shipping_test.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.read_csv" />
+        <item index="2" class="java.lang.String" itemvalue="Python.read_MailConfig" />
+        <item index="3" class="java.lang.String" itemvalue="Python.readConfig" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
       </list>
     </recent_temporary>
   </component>
@@ -408,6 +438,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507796895903</updated>
     </task>
+    <task id="LOCAL-00001" summary="初步运行成功">
+      <created>1509003749657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509003749657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -481,6 +519,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初步运行成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步运行成功" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
@@ -498,30 +540,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20748">
-          <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/report/2017-10-12 17_24_17_result.html" />
-    <entry file="file://$PROJECT_DIR$/report/2016-10-17 22_35_54_result.html" />
-    <entry file="file://$PROJECT_DIR$/report/2017-10-12 17_41_51_result.html" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/ntpath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -590,25 +608,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/Information.py" />
-    <entry file="file://$PROJECT_DIR$/test/read_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1099968596/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
           <caret line="368" column="23" lean-forward="false" selection-start-line="368" selection-start-column="19" selection-end-line="368" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="90" column="2" lean-forward="false" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -645,14 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/myunit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/loader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -669,74 +664,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/New_Report.py">
+    <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="891">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding>
             <element signature="e#15#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/readConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="46" lean-forward="false" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/parameter_move_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/Send_Mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="854">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/parameter_create_sku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="251" column="5" lean-forward="true" selection-start-line="251" selection-start-column="5" selection-end-line="251" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/run_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -751,12 +684,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
+    <entry file="file://$PROJECT_DIR$/function/New_Report.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
             <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="90" column="2" lean-forward="false" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="225" column="8" lean-forward="false" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4941">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="e#1#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/HostConfig.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/parameter_move_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/read_HostConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/Send_Mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/parameter_create_sku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/read_MailConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
