@@ -1,0 +1,7 @@
+name,ip,port,url
+创建商品,192.168.21.248,8010,/public/api/best/best.sku.create
+移入,192.168.21.248,8010,/public/api/best/best.transferinbill.create
+订单创建,192.168.21.248,8010,/public/api/best/best.order.create
+移出,192.168.21.248,8010,/public/api/best/best.transferoutbill.create
+订单取消,192.168.21.248,8010,/public/api/best/best.order.cancel
+库存对账,192.168.21.248,8010,/public/api/best/best.inventoryreconciliation.pull
