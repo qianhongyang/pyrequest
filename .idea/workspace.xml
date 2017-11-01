@@ -2,53 +2,29 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/models/run_tests.py" line="4" />
-    <bookmark url="file://$PROJECT_DIR$/function/read_excel.py" line="24" />
-    <bookmark url="file://$PROJECT_DIR$/function/read_excel.py" line="37" />
+    <bookmark url="file://$PROJECT_DIR$/function/read_excel.py" line="20" />
+    <bookmark url="file://$PROJECT_DIR$/function/read_excel.py" line="33" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6442777e-21cc-4828-90ef-2f0699b3ece7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/excel/sku.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/excel/sku.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/Log.ini" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-30 12_34_07result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-30 12_34_26result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-30 13_47_25result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-30 18_37_14result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 09_51_29result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_11_59result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_12_17result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_14_23result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_15_42result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_16_15result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_16_44result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_18_02result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_23_02result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 11_34_06result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 14_51_45result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/report/2017-10-31 15_48_58result.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/log.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/read_config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/function/read_excel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/a_json.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/get_excel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/jsona.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/send_mail.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/setattr001.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_myself/test_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/parameter_create_sku.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/parameter_move_in.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/excel/sku.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_myself/jsona.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_myself/test_api.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/excel/sku.xlsx" afterPath="$PROJECT_DIR$/data/excel/sku.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/HostConfig.ini" afterPath="$PROJECT_DIR$/config/HostConfig.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/MailConfig.ini" afterPath="$PROJECT_DIR$/config/MailConfig.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/parameter_create_sku.py" afterPath="$PROJECT_DIR$/config/parameter_create_sku.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/parameter_move_in.py" afterPath="$PROJECT_DIR$/config/parameter_move_in.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/HTMLTestRunner.py" afterPath="$PROJECT_DIR$/function/HTMLTestRunner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/New_Report.py" afterPath="$PROJECT_DIR$/function/New_Report.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/Send_Mail.py" afterPath="$PROJECT_DIR$/function/Send_Mail.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/read_MailConfig.py" afterPath="$PROJECT_DIR$/function/read_MailConfig.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/read_HostConfig.py" afterPath="$PROJECT_DIR$/function/read_HostConfig.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/read_excel.py" afterPath="$PROJECT_DIR$/function/read_excel.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/test_create_sku.py" afterPath="$PROJECT_DIR$/interface/test_create_sku.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/test_move_in.py" afterPath="$PROJECT_DIR$/interface/test_move_in.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/run_tests.py" afterPath="$PROJECT_DIR$/models/run_tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/read_csv.py" afterPath="$PROJECT_DIR$/test_myself/read_csv.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test/request.py" afterPath="$PROJECT_DIR$/test_myself/request.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/a_json.py" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/get_excel.py" afterPath="$PROJECT_DIR$/function/get_excel.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/setattr001.py" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/JsonMessageParameter.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,15 +37,17 @@
     <SUITE FILE_PATH="coverage/pyrequest_master$read_MailConfig.coverage" NAME="read_MailConfig Coverage Results" MODIFIED="1509015228944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/pyrequest_master$run_tests__1_.coverage" NAME="run_tests (1) Coverage Results" MODIFIED="1508816034172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
     <SUITE FILE_PATH="coverage/pyrequest_master$read_csv.coverage" NAME="read_csv Coverage Results" MODIFIED="1509517531011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_myself" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$read_excel__1_.coverage" NAME="read_excel (1) Coverage Results" MODIFIED="1509520532671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$read_excel__1_.coverage" NAME="read_excel (1) Coverage Results" MODIFIED="1509530259560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/pyrequest_master$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1509338012420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyrequest_master$setattr.coverage" NAME="setattr Coverage Results" MODIFIED="1509504932316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyrequest_master$test_json.coverage" NAME="test_json Coverage Results" MODIFIED="1509508155124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_shipping_test_py.coverage" NAME="Unittests in shipping_test.py Coverage Results" MODIFIED="1508987174243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Read_csv_for_url.coverage" NAME="Read_csv_for_url Coverage Results" MODIFIED="1509506890889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_test_create_sku_py.coverage" NAME="Unittests in test_create_sku.py Coverage Results" MODIFIED="1508989174602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_test_move_in_py.coverage" NAME="Unittests in test_move_in.py Coverage Results" MODIFIED="1509354936817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
-    <SUITE FILE_PATH="coverage/pyrequest_master$run_tests.coverage" NAME="run_tests Coverage Results" MODIFIED="1509436137778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$JsonParameter_Get.coverage" NAME="JsonParameter_Get Coverage Results" MODIFIED="1509532227166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JsonMesssgeTemplate" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_test_create_sku_py.coverage" NAME="Unittests in test_create_sku.py Coverage Results" MODIFIED="1509533551957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_test_move_in_py.coverage" NAME="Unittests in test_move_in.py Coverage Results" MODIFIED="1509538500143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$read_HostConfig.coverage" NAME="read_HostConfig Coverage Results" MODIFIED="1509538347125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
+    <SUITE FILE_PATH="coverage/pyrequest_master$run_tests.coverage" NAME="run_tests Coverage Results" MODIFIED="1509538521249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
     <SUITE FILE_PATH="coverage/pyrequest_master$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1509009039881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/function" />
     <SUITE FILE_PATH="coverage/pyrequest_master$Unittests_in_shipping_test.coverage" NAME="Unittests in shipping_test Coverage Results" MODIFIED="1508819308692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/pyrequest_master$test_api.coverage" NAME="test_api Coverage Results" MODIFIED="1509517124142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_myself" />
@@ -105,33 +83,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="setattr001.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_myself/setattr001.py">
+      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/run_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a_json.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_myself/a_json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="read_excel.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/function/read_excel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
-                <element signature="e#15#26#0" expanded="true" />
+                <element signature="e#14#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonMessageParameter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/JsonMessageParameter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_move_in.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/test_move_in.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_create_sku.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54">
+              <caret line="19" column="74" lean-forward="true" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,51 +132,53 @@
       <file leaf-file-name="HostConfig.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/HostConfig.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="162">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read_MailConfig.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/read_MailConfig.py">
+      <file leaf-file-name="Json_Message.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="-54">
+              <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MailConfig.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
+      <file leaf-file-name="Log.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/Log.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="27">
+              <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read_csv.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_myself/read_csv.py">
+      <file leaf-file-name="JsonParameter_Get.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="451">
+              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding>
-                <element signature="e#1#20#0" expanded="true" />
+                <element signature="e#14#79#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Read_csv_for_url.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
+      <file leaf-file-name="read_excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/read_excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="138">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <element signature="e#15#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,9 +186,11 @@
       <file leaf-file-name="read_HostConfig.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/function/read_HostConfig.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="1026">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,6 +207,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>test_par_less</find>
+      <find>whid</find>
+      <find>0</find>
     </findStrings>
     <dirStrings>
       <dir>D:\pyrequest-master\interface</dir>
@@ -222,9 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/models/myunit.py" />
-        <option value="$PROJECT_DIR$/interface/add_event_test.py" />
-        <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/interface/shipping_test" />
         <option value="$PROJECT_DIR$/interface/test_shipping" />
         <option value="$PROJECT_DIR$/test/request.py" />
@@ -240,7 +235,6 @@
         <option value="$PROJECT_DIR$/config/Host_Config.ini" />
         <option value="$PROJECT_DIR$/function/readConfig.py" />
         <option value="$PROJECT_DIR$/function/read_HostConfig.ini.py" />
-        <option value="$PROJECT_DIR$/function/read_HostConfig.py" />
         <option value="$PROJECT_DIR$/function/demo.py" />
         <option value="$PROJECT_DIR$/test/read_csv.py" />
         <option value="$PROJECT_DIR$/function/read_config.py" />
@@ -255,11 +249,7 @@
         <option value="$PROJECT_DIR$/function/read_csv.py" />
         <option value="$PROJECT_DIR$/test/json.py" />
         <option value="$PROJECT_DIR$/test/jsona.py" />
-        <option value="$PROJECT_DIR$/config/parameter_create_sku.py" />
         <option value="$PROJECT_DIR$/config/parameter_move_in.py" />
-        <option value="$PROJECT_DIR$/interface/test_create_sku.py" />
-        <option value="$PROJECT_DIR$/interface/test_move_in.py" />
-        <option value="$PROJECT_DIR$/models/run_tests.py" />
         <option value="$PROJECT_DIR$/function/read_MailConfig.py" />
         <option value="$PROJECT_DIR$/test/setattr.py" />
         <option value="$PROJECT_DIR$/test/setattr001.py" />
@@ -269,10 +259,18 @@
         <option value="$PROJECT_DIR$/test/test_api.py" />
         <option value="$PROJECT_DIR$/test_myself/get_excel.py" />
         <option value="$PROJECT_DIR$/test_myself/test_api.py" />
-        <option value="$PROJECT_DIR$/config/HostConfig.ini" />
         <option value="$PROJECT_DIR$/test_myself/setattr001.py" />
         <option value="$PROJECT_DIR$/test_myself/a_json.py" />
+        <option value="$PROJECT_DIR$/config/parameter_create_sku.py" />
+        <option value="$PROJECT_DIR$/interface/test_create_sku.py" />
+        <option value="$PROJECT_DIR$/config/HostConfig.ini" />
+        <option value="$PROJECT_DIR$/JsonMesssgeTemplate/JsonMessageParameter.py" />
         <option value="$PROJECT_DIR$/function/read_excel.py" />
+        <option value="$PROJECT_DIR$/models/run_tests.py" />
+        <option value="$PROJECT_DIR$/interface/test_move_in.py" />
+        <option value="$PROJECT_DIR$/function/read_HostConfig.py" />
+        <option value="$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py" />
+        <option value="$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py" />
       </list>
     </option>
   </component>
@@ -341,12 +339,12 @@
             <path>
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="JsonMesssgeTemplate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
-              <item name="test_myself" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,11 +358,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pyrequest-master\JsonMesssgeTemplate" />
+      <recent name="D:\pyrequest-master\function" />
       <recent name="D:\pyrequest-master\test" />
       <recent name="D:\pyrequest-master\models" />
-      <recent name="D:\pyrequest-master\function" />
       <recent name="D:\pyrequest-master\config" />
-      <recent name="D:\pyrequest-master" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\pyrequest-master\db_fixture" />
@@ -383,8 +381,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.read_excel (1)">
-    <configuration name="Read_csv_for_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.run_tests">
+    <configuration name="JsonParameter_Get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JsonMesssgeTemplate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Unittests in test_create_sku.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/test_create_sku.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_move_in.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pyrequest-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface/test_move_in.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="read_HostConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -397,97 +443,43 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyrequest-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/Read_csv_for_url.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/read_HostConfig.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="read_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_myself" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pyrequest-master" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_myself/read_csv.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="read_excel (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/function" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/read_excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test_api" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_myself" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_myself/test_api.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="test_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pyrequest-master" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pyrequest-master\test\get_excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/run_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.read_excel (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Read_csv_for_url" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_json" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_api" />
-      <item index="4" class="java.lang.String" itemvalue="Python.read_csv" />
+      <item index="0" class="java.lang.String" itemvalue="Python.JsonParameter_Get" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_tests" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_create_sku.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.read_HostConfig" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.read_excel (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.read_csv" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_api" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_json" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Read_csv_for_url" />
+        <item index="0" class="java.lang.String" itemvalue="Python.run_tests" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_move_in.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.read_HostConfig" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_create_sku.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.JsonParameter_Get" />
       </list>
     </recent_temporary>
   </component>
@@ -516,38 +508,45 @@
       <option name="project" value="LOCAL" />
       <updated>1509021245926</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="读取csv文件实现">
+      <created>1509520975853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509520975853</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 24m 49s.xml">
+    <history-entry file="Unittests_in_test_create_sku_py - 2017.11.01 at 18h 47m 27s.xml">
       <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 25m 08s.xml">
+    <history-entry file="Unittests_in_test_create_sku_py - 2017.11.01 at 18h 51m 38s.xml">
       <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 25m 25s.xml">
+    <history-entry file="Unittests_in_test_create_sku_py - 2017.11.01 at 18h 52m 32s.xml">
       <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 25m 56s.xml">
-      <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 39m 07s.xml">
-      <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_create_sku_py - 2017.10.26 at 11h 39m 35s.xml">
-      <configuration name="Unittests in test_create_sku.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_move_in_py - 2017.10.26 at 11h 50m 18s.xml">
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 19h 55m 13s.xml">
       <configuration name="Unittests in test_move_in.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_move_in_py - 2017.10.26 at 11h 57m 32s.xml">
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 19h 55m 55s.xml">
       <configuration name="Unittests in test_move_in.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_move_in_py - 2017.10.26 at 11h 58m 51s.xml">
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 19h 58m 29s.xml">
       <configuration name="Unittests in test_move_in.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_move_in_py - 2017.10.30 at 17h 15m 37s.xml">
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 19h 59m 34s.xml">
+      <configuration name="Unittests in test_move_in.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 20h 03m 24s.xml">
+      <configuration name="Unittests in test_move_in.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 20h 08m 19s.xml">
+      <configuration name="Unittests in test_move_in.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_move_in_py - 2017.11.01 at 20h 15m 00s.xml">
       <configuration name="Unittests in test_move_in.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -564,12 +563,13 @@
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.4974293" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.078891255" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.0826226" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33883387" sideWeight="0.4904051" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.9211087" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25137818" sideWeight="0.9173774" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32855567" sideWeight="0.48773986" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560767" sideWeight="0.49284253" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -580,7 +580,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -593,7 +592,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初步运行成功" />
     <MESSAGE value="参数化基本完成，下一步接口参数读取csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="参数化基本完成，下一步接口参数读取csv" />
+    <MESSAGE value="读取csv文件实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="读取csv文件实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -607,12 +607,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="40" />
+      <option name="time" value="42" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/report/2017-10-24 13_33_23result.html" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="433">
@@ -725,36 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/function/Send_Mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding>
-            <element signature="e#15#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/Log.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function/read_csv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="31" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="18" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -772,24 +745,6 @@
         <state relative-caret-position="216">
           <caret line="347" column="0" lean-forward="false" selection-start-line="347" selection-start-column="0" selection-end-line="347" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/jsona.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/test_move_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <element signature="e#15#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,26 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#15#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/run_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="107" lean-forward="false" selection-start-line="35" selection-start-column="107" selection-end-line="35" selection-end-column="107" />
-          <folding>
-            <element signature="e#14#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function/HTMLTestRunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -863,28 +798,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/parameter_create_sku.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_myself/send_mail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -897,6 +814,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/get_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_myself/jsona.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_myself/test_api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -905,10 +846,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_myself/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/function/read_MailConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="351">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/Send_Mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#15#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_myself/read_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#20#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/parameter_create_sku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -921,70 +898,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/Log.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="604" column="0" lean-forward="false" selection-start-line="604" selection-start-column="0" selection-end-line="604" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/JsonMessageParameter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/function/read_HostConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function/Read_csv_for_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/get_excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-942">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1026">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/HostConfig.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/read_csv.py">
+    <entry file="file://$PROJECT_DIR$/interface/test_create_sku.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="-54">
+          <caret line="19" column="74" lean-forward="true" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
           <folding>
-            <element signature="e#1#20#0" expanded="true" />
+            <element signature="e#15#24#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/setattr001.py">
+    <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_myself/a_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+        <state relative-caret-position="-54">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/function/read_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding>
+            <element signature="e#14#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/test_move_in.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="72" lean-forward="false" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/run_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>

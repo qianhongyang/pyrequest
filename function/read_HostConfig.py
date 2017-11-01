@@ -34,5 +34,10 @@ class Read_HostConfig:
         cfg.write(fp)
 
     def get_host(self,name):
-        value = self.cf.get("HTTP", name)
+        value = self.cf.get("ExcelFilePath", name)
         return value
+
+file = Read_HostConfig()
+sku_path = file.get_host(name="sku_path")
+move_path = file.get_host(name="move_in_path")
+

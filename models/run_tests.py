@@ -37,9 +37,7 @@ class Run_tests:
 
         #移入货物接口
         self.suite.addTest(move_in_test("test_par_all"))                            #case - 移入货物时参数全
-        self.suite.addTest(move_in_test("test_par_null"))                            # case - 移入货物时参数为空
-        self.suite.addTest(move_in_test("test_par_wrong"))                            # case - 移入货物时参数错误
-        self.suite.addTest(move_in_test("test_par_less"))                            # case - 移入货物时必填参数不传
+
 
     def run_case(self):
         self.suite_case()

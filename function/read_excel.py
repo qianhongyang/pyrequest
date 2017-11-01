@@ -1,10 +1,6 @@
 #conding:utf-8
 import xlrd
-from test_myself.setattr001 import a
-from test_myself.a_json import JsonMessage
-
-file = "D:\pyrequest-master\data\excel\sku.xlsx"
-
+from function import read_HostConfig
 
 def read_excel(row_id,col_id):
     #查看工作表数量
@@ -22,7 +18,7 @@ def read_excel(row_id,col_id):
     print(sheel_1.row(1)[0].value)
 
 
-def excel_table_byname(file=file ,colnameindex=0,by_name=u'Sheet1'):
+def excel_by_list(file="" ,colnameindex=0,by_name=u'Sheet1'):
     data = xlrd.open_workbook(file)
     table = data.sheet_by_name(by_name)
     nrows = table.nrows #行数
@@ -35,19 +31,9 @@ def excel_table_byname(file=file ,colnameindex=0,by_name=u'Sheet1'):
              for i in range(len(colnames)):
                 app[colnames[i]] = row[i]
              list.append(app)
-    print(list)
-
-    jsonlist = []
-    for json in list:
-        b=a()
-        b.setKey(json["key"])
-        b.setOrgId(json["orgId"])
-        jsonlist.append(b)
-
-    c = JsonMessage()
-    print(c.create_sku(jsonlist[0].getKey(),jsonlist[0].getOrgId()))
+    #print(list)
+    return list
 
 
-
-if __name__ == '__main__':
-    excel_table_byname()
+# if __name__ == '__main__':
+#     excel_by_list()
