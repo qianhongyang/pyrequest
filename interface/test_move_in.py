@@ -20,8 +20,28 @@ class move_in_test(Parameter_move_in,Mytest):
         r = requests.post(URL.move_in_url,json=Parameter_move_in.move_in_par_all)
         self.result = r.json()
         print(self.result)
-        self.assertEqual(self.result["isSuccess"], True)
+        self.assertEqual(self.result["isSuccess"], )
 
+    def test_par_null(self):
+        ''' 所有参数正常时接口返回测试 '''
+        r = requests.post(URL.move_in_url,json=Parameter_move_in.move_in_par_null)
+        self.result = r.json()
+        print(self.result)
+        self.assertEqual(self.result["isSuccess"], False)
+
+    def test_par_wrong(self):
+        ''' 所有参数正常时接口返回测试 '''
+        r = requests.post(URL.move_in_url,json=Parameter_move_in.move_in_par_wrong)
+        self.result = r.json()
+        print(self.result)
+        self.assertEqual(self.result["isSuccess"], False)
+
+    def test_par_less(self):
+        ''' 所有参数正常时接口返回测试 '''
+        r = requests.post(URL.move_in_url,json=Parameter_move_in.move_in_par_less)
+        self.result = r.json()
+        print(self.result)
+        self.assertEqual(self.result["isSuccess"], False)
 
 if __name__ == "__main__":
     move_in_test()

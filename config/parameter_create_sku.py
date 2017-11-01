@@ -1,23 +1,29 @@
 #coding:utf-8
+from function.read_excel import ok
+import json
+
 
 class  Parameter_create_sku():
 
 #放入json格式的参数由case进行调用
     #创建商品信息
     # --参数全
+    # key = []
+    # for i in ok():
+    #     key.append(i)
 
 
-    create_sku = [
+    create_sku_all = [
     {
-        "key": "CP_1508986003534",
+        "key": "CP_1509337225219",
         "orgId": 100200,
         "orgCode": "BEST_SH_TAOBAO",
         "whId": 109455,
         "whCode": "SH_LJ_WH",
-        "customerId": 1244835,
+        "customerId": 111111,
         "customerCode": "LH",
-        "skuId": 33334,
-        "skuCode": "33334",
+        "skuId": 33332,
+        "skuCode": "33332",
         "descrCn": "加多宝凉茶310ml*10罐/箱",
         "grossWeight": 0.3458,
         "netWeight": 0.34,
@@ -88,6 +94,8 @@ class  Parameter_create_sku():
         ]
     }
 ]
+
+
     #参数为空
     create_sku_null = [
      {

@@ -44,3 +44,4 @@ server = mail.get_email(name="mailserver")
 from_ = mail.get_email(name="from_")
 to_ = mail.get_email(name="to_")
 pwd = mail.get_email(name="pwd")
+

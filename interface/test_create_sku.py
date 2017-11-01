@@ -18,7 +18,7 @@ class creat_sku_test(Parameter_create_sku,Mytest):
 
     def test_par_all(self):
         ''' 所有参数正常时接口返回测试 '''
-        r = requests.post(URL.create_sku_url, json=Parameter_create_sku.create_sku)
+        r = requests.post(URL.create_sku_url, json=Parameter_create_sku.create_sku_all)
         self.result = r.json()
         print(self.result)
         self.assertEqual(self.result["isSuccess"], True)
@@ -37,14 +37,13 @@ class creat_sku_test(Parameter_create_sku,Mytest):
         r = requests.post(URL.create_sku_url, json=Parameter_create_sku.create_sku_wrong)
         self.result = r.json()
         print(self.result)
-        self.assertEqual(self.result["isSuccess"], False)
+        self.assertEqual(self.result["isSuccess"], True)
 
     def test_par_less(self):
         """必填参数少传接口返回测试"""
         r = requests.post(URL.create_sku_url,json=Parameter_create_sku.create_sku_less)
         self.result = r.json()
         print(self.result)
-        self.assertEqual(self.result["errorMsg"],False)
         self.assertIn('key=不能为空',self.result["errorMsg"])
 
 
