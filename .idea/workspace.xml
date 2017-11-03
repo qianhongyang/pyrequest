@@ -7,24 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6442777e-21cc-4828-90ef-2f0699b3ece7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/parameter_create_sku.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/parameter_move_in.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/excel/sku.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_myself/jsona.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_myself/test_api.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/excel/sku.xlsx" afterPath="$PROJECT_DIR$/data/excel/sku.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/HostConfig.ini" afterPath="$PROJECT_DIR$/config/HostConfig.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/read_HostConfig.py" afterPath="$PROJECT_DIR$/function/read_HostConfig.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/function/read_excel.py" afterPath="$PROJECT_DIR$/function/read_excel.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/test_create_sku.py" afterPath="$PROJECT_DIR$/interface/test_create_sku.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interface/test_move_in.py" afterPath="$PROJECT_DIR$/interface/test_move_in.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/run_tests.py" afterPath="$PROJECT_DIR$/models/run_tests.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/a_json.py" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/get_excel.py" afterPath="$PROJECT_DIR$/function/get_excel.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test_myself/setattr001.py" afterPath="$PROJECT_DIR$/JsonMesssgeTemplate/JsonMessageParameter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/MailConfig.ini" afterPath="$PROJECT_DIR$/config/MailConfig.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,11 +67,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="run_tests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/run_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="1269">
+              <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding>
                 <element signature="e#14#32#0" expanded="true" />
               </folding>
@@ -129,6 +113,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="MailConfig.ini" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HostConfig.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/HostConfig.ini">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,16 +138,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-54">
               <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Log.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/Log.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -245,7 +229,6 @@
         <option value="$PROJECT_DIR$/test/ali.py" />
         <option value="$PROJECT_DIR$/function/Send_Mail.py" />
         <option value="$PROJECT_DIR$/test/send_mail.py" />
-        <option value="$PROJECT_DIR$/config/MailConfig.ini" />
         <option value="$PROJECT_DIR$/function/read_csv.py" />
         <option value="$PROJECT_DIR$/test/json.py" />
         <option value="$PROJECT_DIR$/test/jsona.py" />
@@ -271,6 +254,7 @@
         <option value="$PROJECT_DIR$/function/read_HostConfig.py" />
         <option value="$PROJECT_DIR$/JsonMesssgeTemplate/Json_Message.py" />
         <option value="$PROJECT_DIR$/JsonMesssgeTemplate/JsonParameter_Get.py" />
+        <option value="$PROJECT_DIR$/config/MailConfig.ini" />
       </list>
     </option>
   </component>
@@ -319,12 +303,6 @@
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pyrequest-master" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="excel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pyrequest-master" type="b2602c69:ProjectViewProjectNode" />
@@ -515,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509520975853</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="读取多接口多个csv文件实现">
+      <created>1509538733775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509538733775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -593,7 +578,8 @@
     <MESSAGE value="初步运行成功" />
     <MESSAGE value="参数化基本完成，下一步接口参数读取csv" />
     <MESSAGE value="读取csv文件实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="读取csv文件实现" />
+    <MESSAGE value="读取多接口多个csv文件实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="读取多接口多个csv文件实现" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -890,14 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/Log.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -990,11 +968,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/models/run_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="1269">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
             <element signature="e#14#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/MailConfig.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
